@@ -1112,9 +1112,10 @@ pre .javascript .function {
   position: relative;
   display: inline-block;
   padding: 0 40px;
-  color: #fff;
+  color: #a086c3;
   background: #222;
   border-bottom: none;
+  border-radius:20px;
 }
 .brand:hover {
   color: #fff;
